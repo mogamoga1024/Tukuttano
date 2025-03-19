@@ -35,7 +35,7 @@
 
 [FEエンゲージの成長率](https://github.com/mogamoga1024/fe-engage-growth-rate-list)
 
-## 速記
+## 速記学習サイト
 
 [4択で覚える速記](https://github.com/mogamoga1024/sokki-game)
 
