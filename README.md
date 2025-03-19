@@ -21,11 +21,11 @@
 
 ## 趣味
 
-[あるゲームデータの検索](https://github.com/mogamoga1024/NonetEnsembleMagicStoneList)
+[魔法仕掛けの迷宮の魔石の検索](https://github.com/mogamoga1024/NonetEnsembleMagicStoneList)
 
 [シレン6の便利ツール](https://github.com/mogamoga1024/siren6)
 
-[FEエンゲージの成長率](https://github.com/mogamoga1024/fe-engage-growth-rate-list)
+[FEエンゲージの成長率ツール](https://github.com/mogamoga1024/fe-engage-growth-rate-list)
 
 ## ゲーム
 
