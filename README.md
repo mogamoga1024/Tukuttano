@@ -37,6 +37,8 @@
 
 [同人系ワイヤーアクションゲーム](https://github.com/mogamoga1024/uekibati-kun-wire-action-game)
 
+[同人系ガンシューティングゲーム](https://github.com/mogamoga1024/yaju_gun)
+
 ## 学問的に面白い
 
 [JavaScriptのQuine](https://github.com/mogamoga1024/js-zundamon-quine)
